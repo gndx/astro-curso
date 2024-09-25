@@ -1,5 +1,3 @@
-h1 {
-    font-size: 2em;
-    margin-bottom: 0.5em;
-    color: brown;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
